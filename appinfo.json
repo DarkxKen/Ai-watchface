@@ -1,0 +1,36 @@
+{
+  "uuid": "18dc401b-7aa1-4e7f-9cc3-980da17ea8fe",
+  "shortName": "Ai Kanji",
+  "longName": "Ai Kanji",
+  "companyName": "DarkxKen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_JAPFONT_32",
+        "file": "fonts/japfont.ttf",
+        "compatibility":"2.7"
+      },
+      {
+        "type": "font",
+        "name": "FONT_JAPFONT_16",
+        "file": "fonts/japfont.ttf",
+        "compatibility":"2.7"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background-ai.png"
+      }
+    ]
+  }
+}
